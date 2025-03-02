@@ -29,6 +29,11 @@ Ensure you have the following installed:
 
 3. Update Your db.config folder to your db credentials 
 
+    HOST: 'localhost',
+    USER: 'postgres',
+    PASSWORD: '1234',
+    DB: 'todo',
+    dialect: 'postgres',
 
 
 3. Start the server:
